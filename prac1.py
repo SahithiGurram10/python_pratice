@@ -17,5 +17,4 @@ if len(n)==5 and isinteger:
     for g in n:
         sum = sum + int(g)
     print(sum)
-else:
-    print("only 5 digits allowed")
+ 
