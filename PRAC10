@@ -1,0 +1,7 @@
+M=int(input("enter a M value:"))
+N=int(input("enter a N value:"))
+if(M<N):
+    print(M)
+elif(M>=N):
+    rem=M%N
+    print(rem)    
